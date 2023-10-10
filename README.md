@@ -24,3 +24,6 @@ https://emulationstation.org/
 
 Backend/Application
 https://github.com/h3xp/RickDangerousUpdate/fork
+
+PiKISS For Raspberry Pi: A Bunch Of Scripts With Menu To Make Your Life Easier
+https://github.com/jmcerrejon/PiKISS
